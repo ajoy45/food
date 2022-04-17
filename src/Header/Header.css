@@ -1,0 +1,12 @@
+.header{
+    text-align: center;
+    color: magenta;
+    font-size: 30px;
+}
+.header h3{
+    margin: 0;
+}
+.header h3 small{
+    color:green;
+    font-size: 33px;
+}

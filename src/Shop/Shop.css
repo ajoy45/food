@@ -1,0 +1,15 @@
+.shop{
+    display: grid;
+    grid-template-columns: 4fr 2fr;
+}
+.products-container{
+    display: grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap: 10px;
+    padding:20px;
+    
+}
+.order{
+    background-color: aqua;
+    margin-top:20px;
+}
