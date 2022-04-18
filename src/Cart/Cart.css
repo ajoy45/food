@@ -14,4 +14,11 @@
     background-color: magenta;
     color: aqua;
     font-size:25px ;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.offer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
